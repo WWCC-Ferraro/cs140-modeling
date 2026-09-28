@@ -1,0 +1,12 @@
+{
+  "name": "cs140-modeling",
+  "private": true,
+  "type": "module",
+  "description": "Workshop bookings — a type that guards its own rules, a contract, and a design choice you defend",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
