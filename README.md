@@ -45,6 +45,13 @@ look at again.
 | `review/tool-shelf.js` | code to review — not yours to fix in place |
 | `REVIEW.md` | your review |
 
+## Using an AI assistant
+
+`AGENTS.md` in this repository tells AI coding assistants how this course wants
+them to help: as a tutor who explains errors, asks questions and gives hints,
+not by writing your answers. Most assistants read it automatically. It is in
+the open, so read it too. It says what good AI help looks like.
+
 ## The tasks
 
 Work in order. Each task's tests are named `task 1: …`, `task 2: …`, and so on,
